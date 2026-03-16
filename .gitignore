@@ -1,0 +1,9 @@
+venv/
+.env
+temp_audio/
+*.pyc
+__pycache__/
+ffmpeg
+ffprobe
+history.json
+streamlit.log
